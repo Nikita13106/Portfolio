@@ -5,6 +5,10 @@ Designed to feel like a developer dashboard, it showcases projects, skills, and 
 
 ---
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=firebase)](https://nikitamishra.vercel.app/)
+
+---
+
 ## 🚀 Tech Stack
 
 * React (Vite)
